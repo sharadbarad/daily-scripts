@@ -1,2 +1,2 @@
 # daily-scripts
-🚀 A collection of scripts to automate/simplify my daily tasks and boost productivity.
+🚀 A collection of simple scripts to automate/simplify my daily tasks and boost productivity.
