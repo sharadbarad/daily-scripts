@@ -7,6 +7,7 @@
 
 ---
 
+## Pain Point
 My keyboard **doesn't have arrow keys** and is also **missing some media keys**, so I thought I could use Caps Lock in combination with other keys. 
 I created this script to fit my needs. **You can modify this script** according to your own requirements.
 
@@ -29,7 +30,8 @@ Since my keyboard **doesn't have arrow keys**, I have mapped Caps Lock as a modi
 | `CapsLock + 3` | Increase Volume |
 
 
-IKJL is somewhat similar to WSAD, which we commonly use for playing games.
+👉 IKJL is somewhat similar to WSAD, which we commonly use for playing games.
+
 ---
 
 ## 🛠 How to Use This Script  
