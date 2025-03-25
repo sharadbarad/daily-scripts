@@ -23,7 +23,7 @@ Since my keyboard **doesn't have arrow keys**, I have mapped Caps Lock as a modi
 | `CapsLock + J` | Move **Left** (←) |
 | `CapsLock + L` | Move **Right** (→) |
 | `CapsLock + ;` | Move **Right** (→) |
-| `CapsLock + P` | Take a Screenshot (Print Screen) |
+| `CapsLock + Win + P` | Take a Screenshot (Print Screen) |
 | `CapsLock + Backspace` | Delete Key |
 | `CapsLock + 1` | Mute Volume |
 | `CapsLock + 2` | Decrease Volume |
