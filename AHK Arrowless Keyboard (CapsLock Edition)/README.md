@@ -1,11 +1,14 @@
 # AHK CapsLock Navigation & Media Shortcuts
 
-This **AutoHotkey (AHK) script** allows you to use **Caps Lock** as a modifier key to replace arrow keys and add media controls, making navigation easier on keyboards that **lack arrow keys**. You can also use this script to create an executable file (`.exe`) and add it to the startup folder for automatic execution.
-
 ## 📌 What is AutoHotkey (AHK)?  
-**AutoHotkey (AHK)** is a scripting language for automating tasks on Windows. It allows you to create custom keyboard shortcuts, remap keys, and automate repetitive actions.  
+**AutoHotkey** is a free and open-source custom scripting language for Microsoft Windows, primarily designed to provide easy keyboard shortcuts or hotkeys, fast macro-creation and software automation to allow users of most computer skill levels to automate repetitive tasks in any Windows application.
 
 🔗 **Download AutoHotkey**: [https://www.autohotkey.com/](https://www.autohotkey.com/)  
+
+---
+
+My keyboard **doesn't have arrow keys** and is also **missing some media keys**, so I thought I could use Caps Lock in combination with other keys. 
+I created this script to fit my needs. **You can modify this script** according to your own requirements.
 
 ---
 
@@ -25,6 +28,8 @@ Since my keyboard **doesn't have arrow keys**, I have mapped Caps Lock as a modi
 | `CapsLock + 2` | Decrease Volume |
 | `CapsLock + 3` | Increase Volume |
 
+
+IKJL is somewhat similar to WSAD, which we commonly use for playing games.
 ---
 
 ## 🛠 How to Use This Script  
@@ -39,7 +44,7 @@ If you don’t want to install AHK, you can convert this script into an **EXE fi
 2. Right-click the `.ahk` file and select **"Compile Script"**.  
 3. This will generate an `.exe` file that you can run without AutoHotkey.  
 
-Alternatively, you can **download the pre-compiled `.exe` file** from [**here**](your-download-link-here).
+Alternatively, you can **directly download the pre-compiled `.exe` file** from the folder I have provided.
 
 ---
 
@@ -52,8 +57,7 @@ To make the script run **automatically** every time you start your computer:
 ---
 
 ## 📂 Download  
-If you don't want to compile the script yourself, you can **directly download the EXE file** from:  
-👉 [**Download Here**](your-download-link-here)  
+If you don't want to compile the script yourself, you can **directly download the EXE file** from the folder I have provided.
 
 ---
 
