@@ -30,9 +30,9 @@ Since my keyboard **doesn't have arrow keys**, I have mapped Caps Lock as a modi
 | `CapsLock + 3` | Increase Volume |
 
 
-👉 IKJL is somewhat similar to WSAD, which we commonly use for playing games.
-
 ![IKJL](https://github.com/sharadbarad/daily-scripts/blob/main/AHK%20Arrowless%20Keyboard%20(CapsLock%20Edition)/assets/ikjl-asset.png)
+
+👉 IKJL is somewhat similar to WSAD, which we commonly use for playing games.
 
 ---
 
