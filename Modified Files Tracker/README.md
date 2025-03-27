@@ -1,4 +1,4 @@
-# Find Modified Files
+# Modified Files Tracker
 
 ## 📌 Overview
 This Python script helps users find files that have been modified after a specified date and time within a given directory and its subdirectories. It also provides the flexibility to exclude specific folders from the search and saves the list of modified files in a text file (`modified_files.txt`).
