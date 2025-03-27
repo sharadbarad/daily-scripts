@@ -32,6 +32,8 @@ Since my keyboard **doesn't have arrow keys**, I have mapped Caps Lock as a modi
 
 👉 IKJL is somewhat similar to WSAD, which we commonly use for playing games.
 
+![IKJL](https://github.com/sharadbarad/daily-scripts/blob/main/AHK%20Arrowless%20Keyboard%20(CapsLock%20Edition)/assets/ikjl-asset.png)
+
 ---
 
 ## 🛠 How to Use This Script  
@@ -72,4 +74,8 @@ If you don't want to compile the script yourself, you can **directly download th
 
 ---
 
-**Enjoy smooth navigation with Caps Lock! 🚀**  
+**Enjoy smooth navigation with Caps Lock! 🚀** 
+
+---
+
+**🤝 Any issues or errors? Please raise them now.**
